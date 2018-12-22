@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/beads-io.jar"/>
+	<classpathentry kind="lib" path="lib/beads.jar"/>
+	<classpathentry kind="lib" path="lib/jarjar-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/org-jaudiolibs-audioservers-jack.jar"/>
+	<classpathentry kind="lib" path="lib/org-jaudiolibs-audioservers-javasound.jar"/>
+	<classpathentry kind="lib" path="lib/org-jaudiolibs-audioservers.jar"/>
+	<classpathentry kind="lib" path="lib/org-jaudiolibs-jnajack.jar"/>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_aos-0.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
